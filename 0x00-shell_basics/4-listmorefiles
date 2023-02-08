@@ -1,1 +1,2 @@
-.ls-aecho .ls-a
+#!/bin/bash
+ls -a
