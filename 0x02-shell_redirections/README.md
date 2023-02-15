@@ -1,2 +1,3 @@
-This script allows to print hello world
+#!/bin/bash 
+echo 'This scripe allows to print Hello World'
 
