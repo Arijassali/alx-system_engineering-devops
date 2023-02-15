@@ -1,3 +1,1 @@
-#!/bin/bash 
-echo 'This scripe allows to print Hello World'
-
+0x02-shell_redirections
